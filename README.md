@@ -5,3 +5,5 @@ Dataset : [Dataset](https://www.kaggle.com/grassknoted/asl-alphabet)
 
 <br/>
 <img src="Images/1.png" width="340" align="center">
+<img src="Images/2.png" width="340" align="center">
+<img src="Images/3.png" width="340" align="center">
